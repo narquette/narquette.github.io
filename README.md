@@ -2,8 +2,7 @@
 
 **Address:** 314 N Segoe Rd, Madison, WI 53705  
 **Phone:** (786) 539-9172  
-**Email:** nicholas.arquette@gmail.com  
-**Website:** [sirnickds.com](https://sirnickds.com)  
+**Email:** nicholas.arquette@gmail.com
 **LinkedIn:** [linkedin.com/in/nicholasarquette](https://www.linkedin.com/in/nicholasarquette/)  
 **GitHub:** [github.com/narquette](https://github.com/narquette/)  
 **X:** [@narquette82](https://twitter.com/narquette82)  
