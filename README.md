@@ -1,5 +1,3 @@
-# portfolio
-
 # Nicholas Arquette
 
 **Address:** 314 N Segoe Rd, Madison, WI 53705  
